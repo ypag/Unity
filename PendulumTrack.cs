@@ -1,3 +1,6 @@
+// This script has to be attached to image target that we want to track. 
+
+
 using UnityEngine;
 using System.Collections;
 
