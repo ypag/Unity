@@ -1,4 +1,6 @@
 // This script has to be attached to image target that we want to track. 
+// Tracks motion of the pendulum and calculates time period of the periodic motion, prints it on the screen.
+// Image target has to be defined in the unity scene
 
 sing System.Collections;
 
