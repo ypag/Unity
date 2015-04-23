@@ -2,7 +2,7 @@
 // Tracks motion of the pendulum and calculates time period of the periodic motion, prints it on the screen.
 // Image target has to be defined in the unity scene
 
-sing System.Collections;
+using System.Collections;
 
 public class TargetImageCoords : MonoBehaviour {
 
